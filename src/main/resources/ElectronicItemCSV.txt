@@ -1,0 +1,5 @@
+1,Samsung 4K TV,899.99,2 years,Samsung
+2,MacBook Pro,1299.99,1 year,Apple
+3,Wireless Earbuds,159.99,1 year,Sony
+4,Gaming Console,499.99,2 years,Microsoft
+5,Smart Watch,299.99,1 year,Apple
