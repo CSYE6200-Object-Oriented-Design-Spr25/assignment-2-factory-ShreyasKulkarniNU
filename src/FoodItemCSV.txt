@@ -1,0 +1,5 @@
+1,Organic Bananas,4.99,2024-03-15,Fruits
+2,Greek Yogurt,3.49,2024-02-28,Dairy
+3,Whole Grain Bread,5.99,2024-02-25,Bakery
+4,Fresh Salmon,15.99,2024-02-12,Seafood
+5,Chicken Breast,12.99,2024-02-14,Meat
